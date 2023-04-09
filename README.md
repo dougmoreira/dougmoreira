@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Douglas Moreira 👋
 
 I'm a iOS Software Engineer based in Belo Horizonte, Brazil. I'm passionate about building great user experiences and creating robust applications.
 
@@ -10,22 +10,13 @@ I'm a iOS Software Engineer based in Belo Horizonte, Brazil. I'm passionate abou
 
 ## 🌱 Currently Learning
 
+- [iOS LEAD ESSENTIALS PROGRAM](https://www.essentialdeveloper.com/): I'm currently enrolled in the iOS LEAD ESSENTIALS PROGRAM from Essential Developer, learning best practices for iOS software development and team leadership.
+
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/): I'm currently learning SwiftUI to build modern and responsive user interfaces for iOS applications.
-- [Combine](https://developer.apple.com/documentation/combine): I'm exploring Combine to handle asynchronous events and data streams in my applications.
-- [Firebase](https://firebase.google.com/): I'm learning Firebase to add real-time functionality, analytics, and hosting to my iOS applications.
 
 ## 💬 Let's Connect
 
-- Twitter: [Your Twitter Handle](https://twitter.com/YourTwitterHandle)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/YourLinkedInProfile)
-- Email: [Your Email](mailto:youremail@example.com)
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 🎵 Currently Listening to
-
-[Embed your favorite Spotify playlist or song here]
+- Twitter: [Your Twitter Handle](https://twitter.com/itisdoug)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/douglas-moreira)
 
 Thanks for checking out my profile!
