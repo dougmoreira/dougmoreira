@@ -16,8 +16,7 @@ I'm a iOS Software Engineer based in Belo Horizonte, Brazil. I'm passionate abou
 
 ## 💬 Let's Connect
 
-- Twitter: [Your Twitter Handle](https://twitter.com/itisdoug)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/douglas-moreira)
+- LinkedIn: [douglas-moreira](https://www.linkedin.com/in/douglas-moreira)
 
 ## 💼 Work
 
