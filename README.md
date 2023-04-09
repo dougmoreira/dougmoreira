@@ -21,7 +21,7 @@ I'm a iOS Software Engineer based in Belo Horizonte, Brazil. I'm passionate abou
 
 ## 💼 Work
 
-- I'm currently working as an iOS Software Engineer at ![iFood icon](https://www.ifood.com.br/assets/images/svg/logo__v3/ifood-logotipo-cmyk.svg), where I develop and maintain the iOS app that millions of users rely on for food delivery.
+- I'm currently working as an iOS Software Engineer at iFood, where I develop and maintain the iOS app that millions of users rely on for food delivery.
 
 
 Thanks for checking out my profile!
