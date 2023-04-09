@@ -19,4 +19,9 @@ I'm a iOS Software Engineer based in Belo Horizonte, Brazil. I'm passionate abou
 - Twitter: [Your Twitter Handle](https://twitter.com/itisdoug)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/douglas-moreira)
 
+## 💼 Work
+
+- I'm currently working as an iOS Software Engineer at ![iFood icon](https://www.ifood.com.br/assets/images/svg/logo__v3/ifood-logotipo-cmyk.svg), where I develop and maintain the iOS app that millions of users rely on for food delivery.
+
+
 Thanks for checking out my profile!
