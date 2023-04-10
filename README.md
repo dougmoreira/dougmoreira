@@ -6,7 +6,6 @@ I'm a iOS Software Engineer based in Belo Horizonte, Brazil. I'm passionate abou
 
 Below are some of my main repositories. Feel free to explore them and check out my work!
 
-- [Movie List](https://github.com/dougmoreira/Movie-List): Brief description of Project 1
 - [Project 2](Link to Project 2): Brief description of Project 2
 - [Project 3](Link to Project 3): Brief description of Project 3
 
