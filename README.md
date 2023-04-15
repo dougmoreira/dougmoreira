@@ -6,8 +6,7 @@ I'm a iOS Software Engineer based in Belo Horizonte, Brazil. I'm passionate abou
 
 Below are some of my main repositories. Feel free to explore them and check out my work!
 
-- [Project 2](Link to Project 2): Brief description of Project 2
-- [Project 3](Link to Project 3): Brief description of Project 3
+- [MusicFeedAPI](https://github.com/dougmoreira/MusicFeedAPI): is a project where I demonstrate my knowledge of Test-Driven Development (TDD) and Unit Testing by creating an iOS application and testing its API layer. In this repository, I show how I build a robust and reliable app by testing the API layer with Unit Tests. The application fetches music feeds from the API and displays them in the UI. The API layer is tested to ensure that it functions as expected and that the app behaves correctly in different scenarios. This project serves as a great example of how TDD and Unit Testing can be used to create high-quality and maintainable applications. Feel free to explore the code and see how it works!
 
 ## 🌱 Currently Learning
 
