@@ -5,6 +5,7 @@ I'm a iOS Software Engineer based in Belo Horizonte, Brazil. I'm passionate abou
 ## 🔭 Main Repositories
 
 Below are some of my main repositories. Feel free to explore them and check out my work!
+- [iOS WeatherApp using VIPER Architecture](https://github.com/dougmoreira/WeatherApp): This is an iOS WeatherApp that displays the current weather using the VIPER architecture. VIPER is a design pattern commonly used in iOS applications to achieve better separation of concerns and maintainability.
 
 - [MusicFeedAPI](https://github.com/dougmoreira/MusicFeedAPI): is a project where I demonstrate my knowledge of Test-Driven Development (TDD) and Unit Testing by creating an iOS application and testing its API layer. In this repository, I show how I build a robust and reliable app by testing the API layer with Unit Tests. The application fetches music feeds from the API and displays them in the UI. The API layer is tested to ensure that it functions as expected and that the app behaves correctly in different scenarios. This project serves as a great example of how TDD and Unit Testing can be used to create high-quality and maintainable applications. Feel free to explore the code and see how it works!
 
