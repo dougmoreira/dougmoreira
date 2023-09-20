@@ -9,7 +9,7 @@ Below are some of my main repositories. Feel free to explore them and check out 
 
 - [WIP - Adopting SwiftUI with a Bottom-Up Approach to Minimize Risk](https://github.com/dougmoreira/WeatherApp-SwiftUI): Adopting SwiftUI with a bottom-up approach is better because it minimizes risk by being less disruptive, while allowing for incremental improvements.
 
-- [MusicFeedAPI](https://github.com/dougmoreira/MusicFeedAPI): is a project where I demonstrate my knowledge of Test-Driven Development (TDD) and Unit Testing by creating an iOS application and testing its API layer. In this repository, I show how I build a robust and reliable app by testing the API layer with Unit Tests. The application fetches music feeds from the API and displays them in the UI. The API layer is tested to ensure that it functions as expected and that the app behaves correctly in different scenarios. This project serves as a great example of how TDD and Unit Testing can be used to create high-quality and maintainable applications. Feel free to explore the code and see how it works!
+- [Testing API Layer](https://github.com/dougmoreira/ios-lead-essentials-feed-api-challenge): is a project where I demonstrate my knowledge of Test-Driven Development (TDD) and Unit Testing by creating an iOS application and testing its API layer. In this repository, I show how I build a robust and reliable app by testing the API layer with Unit Tests. The API layer is tested to ensure that it functions as expected and that the app behaves correctly in different scenarios. This project serves as a great example of how TDD and Unit Testing can be used to create high-quality and maintainable applications. Feel free to explore the code and see how it works!
 
 ## 📚 Currently Learning
 
